@@ -574,3 +574,11 @@ form a{
     transition: transform 1s;
     transform: translateX(100px);
 }
+
+.copyright a{
+    color: #8a8a8a;
+}
+
+.copyright a:hover{
+    color: #fff;
+}
